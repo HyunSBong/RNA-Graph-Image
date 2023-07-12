@@ -6,5 +6,4 @@ Overview
 ----------
 
 Multi-omics datasets such as mRNA, DNA methylation, and gene expression data are graph-embedded and cell images are generated for each subtype of breast canceler.
-<img width="881" alt="images0010" src="https://github.com/HyunSBong/RNA-Graph-Image/assets/69189272/09418b27-4d40-4523-8a10-e1695f496de3">
-
+<img width="881" alt="fig001" src="https://github.com/HyunSBong/RNA-Graph-Image/assets/69189272/05d064de-ced5-4ae9-a285-7b978d1ee4f0">
