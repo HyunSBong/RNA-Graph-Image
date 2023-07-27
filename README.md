@@ -1,6 +1,9 @@
 # RNA-Graph-Image
 RNA-to-Image breast cancer synthesis using graph embedding and cascaded diffusion models
 
+Graph convolutional networks for single-cell classification
+<img width="881" alt="model" src="https://github.com/HyunSBong/RNA-Graph-Image/assets/69189272/719d01e4-5e3d-4b54-ae40-b09fbdced44f">
+
 
 Overview
 ----------
